@@ -1,0 +1,15 @@
+rootProject.name = 'Aswat'
+include ':react-native-svg'
+project(':react-native-svg').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-svg/android')
+include ':react-native-play-audio'
+project(':react-native-play-audio').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-play-audio/android')
+include ':react-native-gesture-handler'
+project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gesture-handler/android')
+include ':react-native-gesture-handler'
+project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gesture-handler/android')
+include ':react-native-play-audio'
+project(':react-native-play-audio').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-play-audio/android')
+
+include ':app'
+include ':react-native-svg'
+project(':react-native-svg').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-svg/android')
