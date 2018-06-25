@@ -1,5 +1,5 @@
 ## Ziwo Manager Mobile App
-This is the entire source code of the official Ziwo mobile manager app built with React Native, available on [Google Play](https://play.google.com/store/apps/details?id=com.aswat "Google Play") and the [App Store](https://itunes.apple.com/app/ziwo-manager/id1346643126 "App Store"). 
+This is the entire source code of the official Ziwo manager mobile app built with React Native, available on [Google Play](https://play.google.com/store/apps/details?id=com.aswat "Google Play") and the [App Store](https://itunes.apple.com/app/ziwo-manager/id1346643126 "App Store"). 
 
 ## Features
 #### Live View:
