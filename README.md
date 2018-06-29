@@ -34,10 +34,10 @@ $ npm install
 ```
 
 ## Author
-[OLM Business Solutions](http://olmsolutions.com/index.html "OLM Business Solutions")&nbsp;
-Email: morten@olmsolutions.com&nbsp;
-Facebook: https://www.facebook.com/olmbusinesssolutions &nbsp;
-Skype: morten_carstensen&nbsp;
+[OLM Business Solutions](http://olmsolutions.com/index.html "OLM Business Solutions")  
+Email: morten@olmsolutions.com  
+Facebook: https://www.facebook.com/olmbusinesssolutions  
+Skype: morten_carstensen  
 
 ## License
 MIT License
