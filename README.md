@@ -1,6 +1,10 @@
 ## Ziwo Manager Mobile App
 This is the entire source code of the official Ziwo manager mobile app built with React Native, available on [Google Play](https://play.google.com/store/apps/details?id=com.aswat "Google Play") and the [App Store](https://itunes.apple.com/app/ziwo-manager/id1346643126 "App Store"). 
 
+Powered by **Ziwo websocket and API solution**.
+
+Official Website https://ziwo.io/me/ziwo-manager.html
+
 ## Features
 #### Live View:
 Your Live view in a pocket-size format. Monitor your SLA and choose among 30+ Key Performance Indicators. Show, hide, drag and drop widgets to organize your dashboard as you like it and change your settings on the go.
@@ -31,6 +35,9 @@ $ npm install
 
 ## Author
 [OLM Business Solutions](http://olmsolutions.com/index.html "OLM Business Solutions")
+Email: morten@olmsolutions.com
+Facebook: https://www.facebook.com/olmbusinesssolutions/
+Skype: morten_carstensen
 
 ## License
 MIT License
